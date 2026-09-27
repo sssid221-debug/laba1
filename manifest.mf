@@ -1,0 +1,2 @@
+
+Main-Class: ru.university.lab2.Main
